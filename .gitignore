@@ -1,6 +1,6 @@
 #include/ 디렉토리에 있는 모든 파일 무시
 include/
-
+inlcude/
 
 #확장자가 .inc인 파일 무시
 *.inc

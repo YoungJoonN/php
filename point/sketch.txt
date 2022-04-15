@@ -91,6 +91,28 @@ no
 사용자 메인화면 구성 변경하기
 폰에서 가독성이 좋도록.
 
+요구사항 추적표 -(전체목록)
+사용자인터페이스설계서(화면설계서)
+시나리오, 유스케이스 명세서
+상세 설계서(플로우차트, 클래스 설계서)
+단위테스트 케이스
+프로그램 코드
+
+구조설계
+ 주요 기능 리스트
+ 정보 구조도 Information Architecture
+ User Flow
+ ERD
+
+화면설계
+ Wireframe-sketch
+ Design System
+	color System
+	font (한.영)
+
+툴
+draw.io 
+
 
 
 

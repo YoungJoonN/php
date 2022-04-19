@@ -151,3 +151,12 @@ draw.io  : 설치 완
 (기능 구현 후)
 
  
+
+10분 만에 더 나은 UI 디자인 만들기
+5가지 실용적인 방법
+출처 : https://brunch.co.kr/@gilberthan/32
+
+
+UI UX 디자인 레퍼런스 사이트 7곳
+by 들댕댕 2021. 3. 3.
+출처 : https://wildpuppy.tistory.com/entry/UI-UX-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EC%82%AC%EC%9D%B4%ED%8A%B8-7%EA%B3%B3
